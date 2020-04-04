@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Open-PDF-File-Android-Example</string>
+    <string name="opening_pdf">Opening PDF</string>
+    <string name="open_in_webview">Open in WebView</string>
+    <string name="open_from_assets">Open from Assets</string>
+    <string name="open_from_storage">Open from Storage</string>
+    <string name="open_from_internet">Open from Internet</string>
 </resources>
