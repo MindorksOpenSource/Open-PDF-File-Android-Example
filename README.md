@@ -3,7 +3,7 @@
 [![MindOrks Community](https://img.shields.io/badge/join-community-blue.svg)](https://mindorks.com/join-community)
 
 <p align="center">
-    <img src="https://github.com/MindorksOpenSource/Uber-Car-Animation-Android/blob/master/assets/how-to-open-a-pdf-file-in-android-programmatically-banner.png">
+    <img src="https://github.com/MindorksOpenSource/Open-PDF-File-Android-Example/blob/master/assets/how-to-open-a-pdf-file-in-android-programmatically-banner.png">
 </p>
 <br>
 
